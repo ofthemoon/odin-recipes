@@ -1,1 +1,1 @@
-# odin-recipes
+This collection of webpages aims to provide an outlook into my gastronomic tastes. Moreover, it allows me to develop my skillsat hyperlinking a s tring of pages together, along with providing me understanding about unoredred and ordered lists. I was also able to leverage and appreciate the version control system that Git provides and devlop my collaborative skills.
